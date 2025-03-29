@@ -1,4 +1,4 @@
-xgboost
+pickle5
 numpy
 streamlit
 scikit-learn
